@@ -10,43 +10,43 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: af7181f404f1447c0a7a17b3070b952b, type: 3}
-  m_Name: New SpriteShapeProfile
+  m_Name: Ground
   m_EditorClassIdentifier: 
   m_Angles:
   - m_Start: -45
     m_End: 45
     m_Order: 0
     m_Sprites:
-    - {fileID: 21300000, guid: ae91cda1ec8dc044ea3ef8cfa0415c4e, type: 3}
+    - {fileID: 21300000, guid: f0c19485a600e934cbd3dd7e3621e34b, type: 3}
   - m_Start: 45
     m_End: 135
     m_Order: 0
     m_Sprites:
-    - {fileID: 21300000, guid: c8276a594d9afbd41bb0ebb079b110db, type: 3}
+    - {fileID: 21300000, guid: f2d39a26f807a454bb67626082b9c47c, type: 3}
   - m_Start: 135
     m_End: 225
     m_Order: 0
     m_Sprites:
-    - {fileID: 21300000, guid: 952ba9cc697de6d49bf5774e23d161da, type: 3}
+    - {fileID: 21300000, guid: 341dde950fb1e964d8b072f8440b40a3, type: 3}
   - m_Start: -135
     m_End: -45
     m_Order: 0
     m_Sprites:
-    - {fileID: 21300000, guid: 19a3d7da3af4e564ebabc8a71ae7686d, type: 3}
-  m_FillTexture: {fileID: 0}
+    - {fileID: 21300000, guid: 714d2d1e49606e74ca123aafece092e4, type: 3}
+  m_FillTexture: {fileID: 2800000, guid: 52e711ad046d4ff43acd672ea9c5e255, type: 3}
   m_CornerSprites:
   - m_CornerType: 0
     m_Sprites:
-    - {fileID: 0}
+    - {fileID: 21300000, guid: ded794d11c13ebc4b9dae1b09ac8b32d, type: 3}
   - m_CornerType: 1
     m_Sprites:
-    - {fileID: 0}
+    - {fileID: 21300000, guid: e5ad638da286184488631ea939e8dae9, type: 3}
   - m_CornerType: 2
     m_Sprites:
-    - {fileID: 0}
+    - {fileID: 21300000, guid: 69d7008ad24f3f449b7546d6f9c7ec19, type: 3}
   - m_CornerType: 3
     m_Sprites:
-    - {fileID: 0}
+    - {fileID: 21300000, guid: 3a73e59e37d99a34fad24551c7892f99, type: 3}
   - m_CornerType: 4
     m_Sprites:
     - {fileID: 0}
@@ -59,9 +59,9 @@ MonoBehaviour:
   - m_CornerType: 7
     m_Sprites:
     - {fileID: 0}
-  m_FillPixelPerUnit: 100
+  m_FillPixelPerUnit: 16
   m_BevelSize: 0
   m_BevelCutoff: 0
-  m_FillOffset: 0
+  m_FillOffset: -0
   m_WorldSpaceUV: 0
   m_UseSpriteBorders: 1
