@@ -16,7 +16,7 @@ TagManager:
   - 
   - Player
   - Obstacle
-  - 
+  - Set Pieces
   - 
   - 
   - 
@@ -41,4 +41,13 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Set Pieces Background
+    uniqueID: 487971105
+    locked: 0
+  - name: Player
+    uniqueID: 2742849955
+    locked: 0
+  - name: Set Pieces Forground
+    uniqueID: 943307071
     locked: 0
